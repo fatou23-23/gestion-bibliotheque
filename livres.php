@@ -28,7 +28,7 @@ $livres = $query->fetchAll(PDO::FETCH_ASSOC);
 <table>
     <tr>
         <th>ID Livre</th>
-        <th>Titre</th>
+        <th>Titre des livres</th>
         <th>Auteur</th>
         <th>ISBN</th>
     </tr>
