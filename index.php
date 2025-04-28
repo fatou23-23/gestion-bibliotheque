@@ -1,7 +1,7 @@
 <h1>Gestion de la bibliothèque</h1>
 <nav>
     <ul>
-        <li><a href="articles.php">Gestion des articles</a></li>
+        <li><a href="articles.php">Gestion des articles du bibliothéque</a></li>
         <li><a href="membres.php">Gestion des membres</a></li>
         <li><a href="emprunts.php">Gestion des emprunts</a></li>
         <li><a href="comptes.php">Gestion des comptes</a></li>
